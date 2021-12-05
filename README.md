@@ -8,7 +8,7 @@
 
 ### Quem eu sou?
 
- - Estudante do curso Bacharelado em Ciencie e Tecnologia - UFMA apaixonado por tecnologia;
+ - Estudante do curso Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT)  - UFMA;
  - Possuo conhecimentos em HTML, CSS, Javascrip, Ruby, SQL, NOSQL;
  - O foco de meus estudos é Javascript (back-end) voltado para aplicações web em formato de api's utilizando Node e suas dependências.
 
