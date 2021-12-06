@@ -1,10 +1,8 @@
 # Olá, eu sou Danniel Cristie ! :D
 
-[![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dannielcristie)](https://www.linkedin.com/in/dannielcristie/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://www.t.me/dannielcristie/)](https://www.t.me/dannielcristie/)
+<a href = "https://www.linkedin.com/in/dannielcristie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.t.me/dannielcristie/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "mailto:dany14012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<br>
 
 ### Quem eu sou?
 
