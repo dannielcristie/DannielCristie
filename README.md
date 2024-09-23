@@ -1,8 +1,10 @@
 # Olá, eu sou Danniel Cristie ! :D
 
+<!--
 ### Quem eu sou?
  - Bacharel em Ciência e Tecnologia (BICT) - UFMA;
  - Estudante de Engenharia da computação - UFMA;
+-->
 
 <br>
 
